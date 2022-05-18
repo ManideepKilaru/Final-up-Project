@@ -6,8 +6,8 @@
   
  # Technologies Used:
 * Front-end: HTML, JS,CSS.
-*  Back-end: PHP. 
-* Database:  MYSQL.
+*  Back-end
+   Database:  MYSQL.
 # Modules:
 * User login:
   Users have to register by user login to gain access. 
