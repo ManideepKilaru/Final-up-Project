@@ -14,4 +14,18 @@
 * Online doctor appointment:
   Without going to hospitals, user may make appointments online and can save time in this busy world.
   
+  # Screenshots:
+  
+  * Displaying the registration page of Agile Therapeutic Systemization
+  
+
+  <img width="594" alt="image" src="https://user-images.githubusercontent.com/103977814/168953725-b7c0a61f-3195-4e9a-a34d-9069889b7dd7.png">
+  
+  * Displaying the Login page 
+
+  
+  <img width="618" alt="image" src="https://user-images.githubusercontent.com/103977814/168954094-1ab4669c-67c6-4935-bbef-3a0e298ea1c1.png">
+
+
+  
   
